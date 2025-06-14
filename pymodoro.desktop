@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pymodoro
+Comment=Linux Pomodoro Timer with System Tray Integration
+Exec=/usr/local/bin/pymodoro
+Icon=timer
+Terminal=false
+Categories=Utility;Office;
+Keywords=pomodoro;timer;productivity;focus;break;
+StartupNotify=true
+StartupWMClass=pymodoro 
